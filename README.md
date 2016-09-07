@@ -6,13 +6,13 @@ A guide by H00G3
 
 This tutorial is purely for personal use only. I wrote this so I could understand it, but you're free to use it too. If you have any questions, google your problem.
 
-# Contents
+## Contents
 
 - [Connect Git Portable to your Github account](#connect-git-portable-to-your-github-account)
 - [Clone a repository](#clone-a-repository)
 - [Commit changes to a repository](#commit-changes-to-a-repository)
 
-# Connect Git Portable to your Github account
+## Connect Git Portable to your Github account
 
 ### Prerequisites
 
@@ -51,7 +51,7 @@ Add the key
 
 `$ ssh -T git@github.com`
 
-# Clone a repository
+## Clone a repository
 
 ### Prerequisites
 
@@ -72,7 +72,7 @@ copy the SSH remote url to your clipboard
 
 The cloned repository can be found in the Git Portable files (search for it if you can't find it!)
 
-# Commit changes to a repository
+## Commit changes to a repository
 
 ### Prerequisites
 
@@ -85,7 +85,7 @@ The cloned repository can be found in the Git Portable files (search for it if y
 `git commit -m "<write a commit message>"`
 `git commit origin <branch name>`
 
-# Resources
+## Resources
 
 https://help.github.com/articles/generating-an-ssh-key/
 
