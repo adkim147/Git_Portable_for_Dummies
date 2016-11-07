@@ -35,7 +35,7 @@ type a secure passphrase
 
 ### Add your newly created SSH Key to your Github account
 
-copy the SSH key to your clipboard
+Copy the SSH key to your clipboard (key can be found at Data/home/.ssh/id_rsa.pub)
 
 Open [Github](https://github.com/)
 
