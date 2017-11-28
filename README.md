@@ -80,13 +80,13 @@ The cloned repository can be found in the Git Portable files (search for it if y
 
 ### Git commands
 
-`cd <repository name>`
+`$ cd <repository name>`
 
-`git add .`
+`$ git add .`
 
-`git commit -m "<write a commit message>"`
+`$ git commit -m "<write a commit message>"`
 
-`git push`
+`$ git push`
 
 ## Resources
 
